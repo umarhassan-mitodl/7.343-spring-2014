@@ -1,0 +1,70 @@
+{
+  "term": "Spring",
+  "year": "2014",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Cell Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Genetics"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neurobiology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ]
+  ],
+  "legacy_uid": "860c6532-c324-9b01-b029-6b7be5e538dc",
+  "instructors": {
+    "content": [
+      "5be96053-f0da-7346-5bb8-1d846d7ecdff",
+      "4749f659-3932-3e06-5219-123fec8c7050"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "0209663e-60b2-52ee-7fe4-013ee7c0b120",
+    "website": "7-343-biological-bases-of-learning-and-memory-spring-2014"
+  },
+  "course_title": "Biological Bases of Learning and Memory",
+  "course_description": "How does the brain come to learn whether a stimulus is annoying, rewarding or neutral? How does remembering how to ride a bicycle differ from remembering scenes from a movie? In this course, students will explore the concept that learning and memory have a physical basis that can be observed as biochemical, physiological and/or morphological changes to neural tissue. Our goal will be to understand the strategies and techniques biologists use to search for the memory trace: the \"holy grail\" of modern neuroscience.\n\nThis course is one of many {{% resource_link \"f346b38d-d5ba-4ae2-9b06-5962c8c9fdc5\" \"Advanced Undergraduate Seminars\" %}} offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.343",
+  "course_image_thumbnail": {
+    "content": "11013da0-2c3a-03a2-32a1-61559aae49f3",
+    "website": "7-343-biological-bases-of-learning-and-memory-spring-2014"
+  },
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Written Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "b5dc4c1a-da24-420b-bef8-6757a16b4e12",
+  "site_short_id": "7.343-spring-2014",
+  "site_url_path": "courses/7-343-biological-bases-of-learning-and-memory-spring-2014",
+  "title": "Course Metadata"
+}
