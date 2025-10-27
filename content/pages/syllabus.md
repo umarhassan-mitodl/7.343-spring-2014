@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides a course description and information on
   meeting times, prerequisites, format, objectives, grading, and the schedule of lecture
   topics and key dates for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -43,7 +41,7 @@ With this knowledge, we will discuss how scientists use cutting edge technologie
 Format
 ------
 
-We will meet for two hours each week. Students will be required to read two papers each week and be prepared to discuss them in class. Active participation will be expected during every class period. We will focus on the principles of experimental design, use of positive and negative control experiments, and interpretation of experimental data. The final 15 minutes of each class will consist of an introduction to the next week's topic. In week 6 we will visit the laboratory of [Professor Elly Nedivi](http://picower.mit.edu/elly-nedivi) in the [MIT Picower Institute of Learning and Memory](http://picower.mit.edu/). We will tour the lab and discuss one of the lab's projects investigating the role of an activity-regulated gene called _cpg15_ in experience-dependent synaptic plasticity.
+We will meet for two hours each week. Students will be required to read two papers each week and be prepared to discuss them in class. Active participation will be expected during every class period. We will focus on the principles of experimental design, use of positive and negative control experiments, and interpretation of experimental data. The final 15 minutes of each class will consist of an introduction to the next week's topic. In week 6 we will visit the laboratory of {{% resource_link "0add25c2-33b0-48cc-9fb6-3f57f80d847e" "Professor Elly Nedivi" %}} in the {{% resource_link "9b96b61e-fe8e-48c9-b09f-d6cafe32b1f4" "MIT Picower Institute of Learning and Memory" %}}. We will tour the lab and discuss one of the lab's projects investigating the role of an activity-regulated gene called _cpg15_ in experience-dependent synaptic plasticity.
 
 Course Objectives
 -----------------

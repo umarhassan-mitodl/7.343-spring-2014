@@ -48,8 +48,7 @@
     "website": "7-343-biological-bases-of-learning-and-memory-spring-2014"
   },
   "course_title": "Biological Bases of Learning and Memory",
-  "hide_download": true,
-  "course_description": "How does the brain come to learn whether a stimulus is annoying, rewarding or neutral? How does remembering how to ride a bicycle differ from remembering scenes from a movie? In this course, students will explore the concept that learning and memory have a physical basis that can be observed as biochemical, physiological and/or morphological changes to neural tissue. Our goal will be to understand the strategies and techniques biologists use to search for the memory trace: the \"holy grail\" of modern neuroscience.\n\nThis course is one of many [Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/course_listings/advanced_undergraduate_seminars) offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
+  "course_description": "How does the brain come to learn whether a stimulus is annoying, rewarding or neutral? How does remembering how to ride a bicycle differ from remembering scenes from a movie? In this course, students will explore the concept that learning and memory have a physical basis that can be observed as biochemical, physiological and/or morphological changes to neural tissue. Our goal will be to understand the strategies and techniques biologists use to search for the memory trace: the \"holy grail\" of modern neuroscience.\n\nThis course is one of many {{% resource_link \"0021f3e9-5735-49f4-90e9-a30a33785be7\" \"Advanced Undergraduate Seminars\" %}} offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
   "department_numbers": [
     "7"
   ],
@@ -59,7 +58,6 @@
     "content": "11013da0-2c3a-03a2-32a1-61559aae49f3",
     "website": "7-343-biological-bases-of-learning-and-memory-spring-2014"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Presentation Assignments",
     "Written Assignments",

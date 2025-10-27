@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains a list of readings by week including links to lecture
   summaries and online journal articles.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -61,9 +59,9 @@ Fundamentals of learning and memory: pre- and post-synaptic mechanisms
 {{< tdopen >}}
 
 
-Isaac, J. T., R. A. Nicoll, et al. "[Evidence for Silent Synapses: Implications for the Expression of LTP](http://www.ncbi.nlm.nih.gov/pubmed/7646894)." _Neuron_ 15, no. 2 (1995): 427–34.
+Isaac, J. T., R. A. Nicoll, et al. "{{% resource_link "32362cba-1ff8-4e20-af40-42448607ab90" "Evidence for Silent Synapses: Implications for the Expression of LTP" %}}." _Neuron_ 15, no. 2 (1995): 427–34.
 
-Skrede, K. K., and Malthe-Sørenssen. "[Increased Resting and Evoked Release of Transmitter Following Repetitive Electrical Tetanization in Hippocampus: A Biochemical Correlate to Long-Lasting Synaptic Potentiation](http://www.ncbi.nlm.nih.gov/pubmed/?term=Increased%20resting%20and%20evoked%20release%20of%20transmitter%20following%20repetitive%20electrical%20tetanization%20in%20hippocampus:%20a%20biochemical%20correlate%20to%20long-lasting%20synaptic%20potentiation.)." _Brain Research_ 208, no. 2 (1981): 436–41.
+Skrede, K. K., and Malthe-Sørenssen. "{{% resource_link "af9e9df0-d35c-496f-9c24-f34c7fc3370a" "Increased Resting and Evoked Release of Transmitter Following Repetitive Electrical Tetanization in Hippocampus: A Biochemical Correlate to Long-Lasting Synaptic Potentiation" %}}." _Brain Research_ 208, no. 2 (1981): 436–41.
 
 
 {{< tdclose >}}
@@ -85,9 +83,9 @@ Mechanisms of learning: activity-regulated genes
 {{< tdopen >}}
 
 
-Nedivi, E., S. Fieldust, et al. "[A Set of Genes Expressed in Response to Light in the Adult Cerebral Cortex and Regulated During Development](http://www.pnas.org/content/93/5/2048)." _Proceedings of the National Academyof Sciences of the United States of America_ 93, no. 5 (1996): 2048–53.
+Nedivi, E., S. Fieldust, et al. "{{% resource_link "3b92f5c6-fde6-4248-95da-e7c36d9f0d50" "A Set of Genes Expressed in Response to Light in the Adult Cerebral Cortex and Regulated During Development" %}}." _Proceedings of the National Academyof Sciences of the United States of America_ 93, no. 5 (1996): 2048–53.
 
-Chowdhury, S., J. Shepherd, et al. "[Arc / Arg3.1 Interacts with the Endocytic Machinery to Regulate AMPA Receptor Trafficking](http://www.ncbi.nlm.nih.gov/pubmed/17088211)." _Neuron_ 52, no. 3 (2006): 445–59.
+Chowdhury, S., J. Shepherd, et al. "{{% resource_link "b121f7d5-f21e-481a-92d7-d54a2f928d5b" "Arc / Arg3.1 Interacts with the Endocytic Machinery to Regulate AMPA Receptor Trafficking" %}}." _Neuron_ 52, no. 3 (2006): 445–59.
 
 
 {{< tdclose >}}
@@ -109,9 +107,9 @@ Forms of Learning and Memory I: Procedural and Episodic
 {{< tdopen >}}
 
 
-Goshen, I., M. Brodsky, et al. "[Dynamics of Retrieval Strategies for Remote Memories](http://dx.doi.org/10.1016/j.cell.2011.09.033)." _Cell_ 147, no. 3 (2011): 678–89.
+Goshen, I., M. Brodsky, et al. "{{% resource_link "86ccd789-d04c-4b37-aa31-d7a606e82f17" "Dynamics of Retrieval Strategies for Remote Memories" %}}." _Cell_ 147, no. 3 (2011): 678–89.
 
-Schonewille, M., A. Belmeguenai, et al. "[Purkinje Cell-Specific Knockout of the Protein Phosphatase PP2B Impairs Potentiation and Cerebellar Motor Learning](http://dx.doi.org/10.1016/j.neuron.2010.07.009)." _Neuron_ 67, no. 4 (2010): 618–28.
+Schonewille, M., A. Belmeguenai, et al. "{{% resource_link "227a854b-8b31-4e1e-b9ce-9eb1b1baba67" "Purkinje Cell-Specific Knockout of the Protein Phosphatase PP2B Impairs Potentiation and Cerebellar Motor Learning" %}}." _Neuron_ 67, no. 4 (2010): 618–28.
 
 
 {{< tdclose >}}
@@ -133,9 +131,9 @@ Forms of Learning and Memory II: Non-Associative vs. Associative
 {{< tdopen >}}
 
 
-Martin, K. C., A. Casadio, et al. "[Synapse-Specific, Long-Term Facilitation of _Aplysia_ Sensory to Motor Synapses: A Function for Local Protein Synthesis in Memory Storage](http://www.ncbi.nlm.nih.gov/pubmed/9428516)." _Cell_ 91, no. 7 (1997): 927–38.
+Martin, K. C., A. Casadio, et al. "{{% resource_link "e5c35da3-fc97-4fe0-a95f-675cd66f0576" "Synapse-Specific, Long-Term Facilitation of _Aplysia_ Sensory to Motor Synapses: A Function for Local Protein Synthesis in Memory Storage" %}}." _Cell_ 91, no. 7 (1997): 927–38.
 
-Marowsky, A., Y. Yanagawa, et al. "[A Specialized Subclass of Interneurons Mediates Dopaminergic Facilitation of Amygdala Function](http://www.ncbi.nlm.nih.gov/pubmed/16364905)." _Neuron_ 48, no. 6 (2005): 1025–37.
+Marowsky, A., Y. Yanagawa, et al. "{{% resource_link "4ad77ed4-ef93-4aa2-bf05-1ed1966cfd66" "A Specialized Subclass of Interneurons Mediates Dopaminergic Facilitation of Amygdala Function" %}}." _Neuron_ 48, no. 6 (2005): 1025–37.
 
 
 {{< tdclose >}}
@@ -175,9 +173,9 @@ Forms of Learning and Memory III: Drug Addiction and Perceptual Learning
 {{< tdopen >}}
 
 
-Argilli, E., D. Sibley, et al. "[Mechanism and Time Course of Cocaine-Induced Long-Term Potentiation in the Ventral Tegmental Area](http://dx.doi.org/10.1523/JNEUROSCI.1001-08.2008)." _The Journal of Neuroscience_ 28, no. 37 (2008): 9092–100.
+Argilli, E., D. Sibley, et al. "{{% resource_link "a18fdb9c-b1b4-4ee0-97a6-2807063daae4" "Mechanism and Time Course of Cocaine-Induced Long-Term Potentiation in the Ventral Tegmental Area" %}}." _The Journal of Neuroscience_ 28, no. 37 (2008): 9092–100.
 
-Sale, A., R. De Pasquale, et al. "[Visual Perceptual Learning Induces Long-Term Potentiation in the Visual Cortex](http://dx.doi.org/10.1016/j.neuroscience.2010.10.078)." _Neuroscience_ 172 (2011): 219–25.
+Sale, A., R. De Pasquale, et al. "{{% resource_link "43861dd1-c616-44cf-9680-686acd09678d" "Visual Perceptual Learning Induces Long-Term Potentiation in the Visual Cortex" %}}." _Neuroscience_ 172 (2011): 219–25.
 
 
 {{< tdclose >}}
@@ -201,7 +199,7 @@ Learning through others’ experience and observational learning
 
 Jeon, D., S. Kim, et al. "[Observational Fear Learning Involves Affective Pain System and Cav1.2 Ca2+ Channels in ACC](http://dx.doi.org/ 10.1038/nn.2504)." _Nature Neuroscience_ 13, no. 4 (2010): 482–8.
 
-Dias, B. G., and K. J. Ressler. "[Parental Olfactory Experience Influences Behavior and Neural Structure in Subsequent Generations](http://dx.doi.org/10.1038/nn.3594)." _Nature Neuroscience_ 17, no. 1 (2014): 89–96.
+Dias, B. G., and K. J. Ressler. "{{% resource_link "b4e898c7-480e-4a3c-8044-578e71de1e69" "Parental Olfactory Experience Influences Behavior and Neural Structure in Subsequent Generations" %}}." _Nature Neuroscience_ 17, no. 1 (2014): 89–96.
 
 
 {{< tdclose >}}
@@ -223,9 +221,9 @@ Synapse formation and stabilization
 {{< tdopen >}}
 
 
-Nägerl, U. V., G. Köstinger, et al. "[Protracted Synaptogenesis after Activity-Dependent Spinogenesis in Hippocampal Neurons](http://dx.doi.org/10.1523/JNEUROSCI.0511-07.2007)."_The Journal of Neuroscience_ 27, no. 30 (2007): 8149–56.
+Nägerl, U. V., G. Köstinger, et al. "{{% resource_link "d952b940-3c5b-49d4-9318-1739676bb121" "Protracted Synaptogenesis after Activity-Dependent Spinogenesis in Hippocampal Neurons" %}}."_The Journal of Neuroscience_ 27, no. 30 (2007): 8149–56.
 
-Zito, K., V. Scheuss, et al. "[Rapid Functional Maturation of Nascent Dendritic Spines](http://dx.doi.org/10.1016/j.neuron.2008.10.054)." _Neuron_ 61, no. 2 (2009): 247–58.
+Zito, K., V. Scheuss, et al. "{{% resource_link "05f9bdb8-3b23-4e8a-a548-fce157b26ae9" "Rapid Functional Maturation of Nascent Dendritic Spines" %}}." _Neuron_ 61, no. 2 (2009): 247–58.
 
 
 {{< tdclose >}}
@@ -247,9 +245,9 @@ Experience-dependent plasticity: Visual Cortex
 {{< tdopen >}}
 
 
-Cabelli, R. J., D. L. Shelton, et al. "[Blockade of Endogenous Ligands of trkB Inhibits Formation of Ocular Dominance Columns](http://www.ncbi.nlm.nih.gov/pubmed/9247264)." _Neuron_ 19, no. 1 (1997): 63–76.
+Cabelli, R. J., D. L. Shelton, et al. "{{% resource_link "ebd513f7-6e40-45b2-950a-e8920998b3c4" "Blockade of Endogenous Ligands of trkB Inhibits Formation of Ocular Dominance Columns" %}}." _Neuron_ 19, no. 1 (1997): 63–76.
 
-Mrsic-Flogel, T. D., S. B. Hofer, et al. "[Homeostatic Regulation of Eye-Specific Responses in Visual Cortex During Ocular Dominance Plasticity](http://www.ncbi.nlm.nih.gov/pubmed/17582335)." _Neuron_ 54, no. 6 (2007): 961–72.
+Mrsic-Flogel, T. D., S. B. Hofer, et al. "{{% resource_link "fb3d530b-98ed-427b-8bb7-3b6803b582a3" "Homeostatic Regulation of Eye-Specific Responses in Visual Cortex During Ocular Dominance Plasticity" %}}." _Neuron_ 54, no. 6 (2007): 961–72.
 
 
 {{< tdclose >}}
@@ -271,9 +269,9 @@ Occlusion of synaptic plasticity by learning
 {{< tdopen >}}
 
 
-Rioult-Pedotti, M. S., D. Friedman, et al. "[Learning-Induced LTP in Neocortex](http://www.ncbi.nlm.nih.gov/pubmed/11039938)." _Science_ 290, no. 5491 (2000): 533–6.
+Rioult-Pedotti, M. S., D. Friedman, et al. "{{% resource_link "3181e6f3-e6a4-40b7-9996-224429cde59c" "Learning-Induced LTP in Neocortex" %}}." _Science_ 290, no. 5491 (2000): 533–6.
 
-Whitlock, J. R., A. J. Heynen, et al. "[Learning Induces Long-Term Potentiation in the Hippocampus](http://dx.doi.org/10.1126/science.1128134)." _Science_ 313, no. 5790 (2006): 1093–7.
+Whitlock, J. R., A. J. Heynen, et al. "{{% resource_link "50988cdc-51c5-40f8-b0d5-929a1d333989" "Learning Induces Long-Term Potentiation in the Hippocampus" %}}." _Science_ 313, no. 5790 (2006): 1093–7.
 
 
 {{< tdclose >}}
@@ -295,9 +293,9 @@ Creating false memory, erasing specific memory
 {{< tdopen >}}
 
 
-Ramirez, S., X. Liu, et al. "[Creating a False Memory in the Hippocampus](http://dx.doi.org/10.1126/science.1239073)." _Science_ 341, no. 6144 (2013): 387–91.
+Ramirez, S., X. Liu, et al. "{{% resource_link "2cd78bf1-564d-49ff-bca2-374a38bf3441" "Creating a False Memory in the Hippocampus" %}}." _Science_ 341, no. 6144 (2013): 387–91.
 
-Han, J. H., S. A. Kushner, et al. "[Selective Erasure of a Fear Memory](http://dx.doi.org/10.1126/science.1164139)." _Science_ 323, no. 5920 (2009): 1492–6.
+Han, J. H., S. A. Kushner, et al. "{{% resource_link "8c2ca106-91fd-4348-8731-d805f006eecc" "Selective Erasure of a Fear Memory" %}}." _Science_ 323, no. 5920 (2009): 1492–6.
 
 
 {{< tdclose >}}
@@ -319,9 +317,9 @@ Understanding a disease: Fragile X Syndrome
 {{< tdopen >}}
 
 
-Qin, M., J. Kang, et al. "[Postadolescent Changes in Regional Cerebral Protein Synthesis: An In Vivo Study in the Fmr1 Null Mouse](http://dx.doi.org/10.1523/JNEUROSCI.0093-05.2005)." _The Journal of Neuroscience_ 25, no. 20 (2005): 5087–95.
+Qin, M., J. Kang, et al. "{{% resource_link "6b3c73d3-5fb1-4ede-864e-8ff145087d1a" "Postadolescent Changes in Regional Cerebral Protein Synthesis: An In Vivo Study in the Fmr1 Null Mouse" %}}." _The Journal of Neuroscience_ 25, no. 20 (2005): 5087–95.
 
-Osterweil, E. K., S. C. Chuang, et al. "[Lovastatin Corrects Excess Protein Synthesis and Prevents Epileptogenesis in a Mouse Model of Fragile X Syndrome](http://dx.doi.org/10.1016/j.neuron.2012.01.034)." _Neuron_ 77, no. 2 (2013): 243–50.
+Osterweil, E. K., S. C. Chuang, et al. "{{% resource_link "79956fb0-3cac-4317-9069-a6602bae3761" "Lovastatin Corrects Excess Protein Synthesis and Prevents Epileptogenesis in a Mouse Model of Fragile X Syndrome" %}}." _Neuron_ 77, no. 2 (2013): 243–50.
 
 
 {{< tdclose >}}
